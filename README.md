@@ -1,4 +1,8 @@
 # Enderwire Docs
+
+**NOTE!!! THIS DOCUMENT IS INCOMPLETE AND A WORK IN PROGRESS!!! MANY ITEMS MAY CHANGE OR BE REMOVED/REWORDED!!!**
+
+
 This repository outlines the steps to convert your Ender 3 into a CoreXZ movement printer based on the Voron Switchwire. There wasn't really a lot of consolidated information about this so I decided to write it up into a guide.
 
 **Disclaimer**: Proceed with caution, many steps in a conversion could lead to injury especially when dealing with mains wiring. Do so at your own risk, I take no responsibility or liability for your own actions, this guide is informational only.
@@ -40,9 +44,9 @@ These are the parts that you will need to source (aka: buy) to make the conversi
 **Printed**
 |Part|Quantity|
 |----------|----------|
-|X-Y-Z Movement|All|
-|Aesthetic (Grills, skirts)|All|
-|Toolhead (Stealthburner|All|
+|Gantry, Electronics|All|
+|Aesthetic (Grills, Extensions, Panel Mounting, Misc)|All|
+|Toolhead (Stealthburner)|All|
 
 **Electrical**
 |Part|Quantity|
@@ -60,6 +64,11 @@ These are the parts that you will need to source (aka: buy) to make the conversi
 |Omron TL-Q5MC2 - NPN Inductive Probe|1|
 |SPDT KW10 Limit Micro Switch|2|
 |BAT85 Diode|1|
+|NEMA17 Stepper Motor 17HS15-1504S1 (Optional, recommended)|3|
+|Mini 12864 Display (Optional)|1|
+|LED Strip 240mm 24v (Optional)|2|
+|Inlet Power Socket IEC320 C14 (Optional, recommended)|1|
+
 
 **Fasteners + Hardware**
 |Part|Quantity|
