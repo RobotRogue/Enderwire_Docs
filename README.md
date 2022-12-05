@@ -12,15 +12,14 @@ Select a Country in the Rules channel to be able to see the #ender_conversion_ch
 * You have access to a printer that can print ABS parts (the stock Ender 3 with the white PTFE tube and non-all metal hotend is not recommended or even really safe to print ABS with)
 * You are familiar or comfortable enough building a 3D printer from scratch, and are able to figure out how to source your own parts and read documentation.
 
-# Parts:
-
-### Models and Repositories for the Ender Printable Conversion Parts:
+# Models and Repositories
+### Ender Printable Conversion Parts:
 *For Enders with a 4040 y-extrusion:*
-DarkDog's Rev.2 Conversion: https://github.com/boubounokefalos/Ender_SW/tree/Rev.2
+**DarkDog's Rev.2 Conversion:** https://github.com/boubounokefalos/Ender_SW/tree/Rev.2
 
 *For Enders with a 2020 y-extrusion:*
-Gizzle's Non-Pro Conversion: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Gizzle/ender-3_(pro)_switchwire
-Thomasjfen's Non-Pro Conversion: https://github.com/thomasfjen/enderwire_nonpro
+**Gizzle's Non-Pro Conversion:** https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Gizzle/ender-3_(pro)_switchwire
+**Thomasjfen's Non-Pro Conversion:** https://github.com/thomasfjen/enderwire_nonpro
 
 If you have a non-pro Ender 3 (aka: the 2040 y-extrusion version) it's recommended to print the majority of DarkDog's parts, and use the y-axis parts from Gizzle or Thomasjfens repositories. (You'll have to mix and match and figure out what will work since the non-pro is not really a mainstream conversion)
 
@@ -29,4 +28,9 @@ The Enderwire conversion you can really use whatever hotend and toolhead you can
 
 The repository for the Stealthburner toolhead can be found here: https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs
 
-... to be continued.
+# Parts:
+### Bill of Materials (BOM)
+These are the parts that you will need to source (aka: buy) to make the conversion happen.
+
+### Reuseable Parts
+These are the parts that you will reuse from your existing Ender 3 (assuming it is a stock Ender 3, if you replaced stuff, your mileage may vary)
