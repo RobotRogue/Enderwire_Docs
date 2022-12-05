@@ -1,4 +1,4 @@
-# Enderwire
+# Enderwire Docs
 This repository outlines the steps to convert your Ender 3 into a CoreXZ movement printer based on the Voron Switchwire.
 
 **Disclaimer**: Proceed with caution, many steps in a conversion could lead to injury especially when dealing with mains wiring. Do so at your own risk, I take no responsibility or liability for your own actions, this guide is informational only.
@@ -30,7 +30,59 @@ The repository for the Stealthburner toolhead can be found here: https://github.
 
 # Parts:
 ### Bill of Materials (BOM)
-These are the parts that you will need to source (aka: buy) to make the conversion happen.
+These are the parts that you will need to source (aka: buy) to make the conversion happen. 
+**Notes:** You might want to buy 5-10% extra of the Fasteners just in case. As for the Linear Rails, you only need 4 if you are doing a non-pro conversion). For the Drag Chain, usually ONE chain will do, but you'll need to buy 2 additional *sets* of ends for it then.
+|Area|Part|Quantity|
+|----------|----------|----------|
+|Printed|X-Y-Z Movement|All|
+|Printed|Aesthetic (Grills, skirts)|All|
+|Printed|Toolhead (Stealthburner|All|
+|Electrical|16awg Wire (mains to PSU)|1 set|
+|Electrical|20awg FEP/PTFE Wire (MCU to Toolhead Heater)|1 set|
+|Electrical|24awg FEP/PTFE Wire (MCU to Toolhead)|1 set|
+|Electrical|??awg FEP/PTFE Wire (Heatbed to MCU)|1 set|
+|Electrical|24awg Silicone Wire (5v PSU to Pi)|1 set|
+|Electrical|Mean Well RS-25-5 PSU (For RPi)|1|
+|Electrical|Axial Fan 6040 or 6020 24v (chassis fan)|1|
+|Electrical|Raspberry Pi 3b+ or better|1|
+|Electrical|Omron TL-Q5MC2 - NPN Inductive Probe|1|
+|Electrical|SPDT KW10 Limit Micro Switch|2|
+|Electrical|BAT85 Diode|1|
+|Fasteners + Hardware|m3x5x4 Heat Set Inserts|55|
+|Fasteners + Hardware|xxx|x|
+|Fasteners + Hardware|xxx|x|
+|Fasteners + Hardware|xxx|x|
+|Fasteners + Hardware|xxx|x|
+|Fasteners + Hardware|xxx|x|
+|Fasteners + Hardware|xxx|x|
+|Fasteners + Hardware|xxx|x|
+|Fasteners + Hardware|xxx|x|
+|Fasteners + Hardware|xxx|x|
+|Fasteners + Hardware|xxx|x|
+|Motion|Linear Rail 12H 300mm, Stainless Steel LDO-SLR12H-300|5|
+|Motion|F695-2RS Bearings|20|
+|Motion|Key-bak **Super48** - 13oz - 36"|1|
+|Motion|Pulley, 2GT, 20T, (5mm ID 6mm W)|3|
+|Motion|Gates Open Belt, 2GT, 6mm|4 meters|
+|Motion|Drag Chain, 10x10mm, R18, 15 links|1|
+|Motion|Drag Chain, 10x10mm, R18, 18 links|1|
+|Motion|Drag Chain, 10x10mm, R18, 26 links|1|
+|Toolhead|PTFE Teflon Tube (4mm OD 2mm ID) - 10cm|1|
+|Toolhead|PTFE Teflon Tube (4mm OD 3mm ID) - 1.2m|1|
+|Enclosure and Deck|6x3mm Neodymium Magnets|10|
+|Enclosure and Deck|3M VHB Tape (3/4")|1 roll|
+|Enclosure and Deck|Acrylic Panel(s)|???|
+|Enclosure and Deck|ACM or ABS Panels|???|
+
+**Note: You also need to source all the parts listed in the Stealthburner BOM!** Found here: https://vorondesign.com/voron_stealthburner
 
 ### Reuseable Parts
 These are the parts that you will reuse from your existing Ender 3 (assuming it is a stock Ender 3, if you replaced stuff, your mileage may vary)
+
+The Frame - all parts of your Ender 3 frame will be used for the conversion
+The Mainboard (MCU) - if you have the v4.2.2 or v4.2.7 32-bit Creality mainboard, that will be enough for the conversion
+The Power Supply - the stock 350w 24v 15a power supply will be good enough
+The Stepper Motors - you will only need the X, Y, and Z motors. The extruder motor is not used (see Stealthburner section)
+The Power Inlet - this is the part where you plug the power cord into the Ender. It will be needed to complete the conversion.
+The Hotend - Sort of. You *can* get away with this hotend, but it's recommended to get an e3d v6 or better hotend. 
+The Heatbed and Heatbed Y-Carriage - The heatbed is actually pretty good, but you will have to drill out your y-carriage (more on that later)
