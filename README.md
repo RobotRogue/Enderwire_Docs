@@ -1,4 +1,5 @@
 # Enderwire Docs
+![Enclosed Enderwire](DarkDog_Enderwire_rev2_with_enclosure.png)
 
 **NOTE!!! THIS DOCUMENT IS INCOMPLETE AND A WORK IN PROGRESS!!! MANY ITEMS MAY CHANGE OR BE REMOVED/REWORDED!!!**
 
@@ -13,8 +14,6 @@ This repository outlines the steps to convert your Ender 3 into a CoreXZ movemen
 # **Disclaimer!**
 **Proceed with caution!** Many steps in a conversion could lead to injury especially when dealing with mains wiring. 
 Do so at your own risk, I take no responsibility or liability for your own actions, this guide is informational only.
-
-![Enclosed Enderwire](DarkDog_Enderwire_rev2_with_enclosure.png)
 
 # Prerequisites:
 **Start here...**
