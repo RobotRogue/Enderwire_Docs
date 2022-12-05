@@ -1,5 +1,5 @@
 # Enderwire Docs
-This repository outlines the steps to convert your Ender 3 into a CoreXZ movement printer based on the Voron Switchwire.
+This repository outlines the steps to convert your Ender 3 into a CoreXZ movement printer based on the Voron Switchwire. There wasn't really a lot of consolidated information about this so I decided to write it up into a guide.
 
 **Disclaimer**: Proceed with caution, many steps in a conversion could lead to injury especially when dealing with mains wiring. Do so at your own risk, I take no responsibility or liability for your own actions, this guide is informational only.
 
@@ -35,34 +35,52 @@ These are the parts that you will need to source (aka: buy) to make the conversi
 
 **Note: You also need to source all the parts listed in the Stealthburner BOM!** Found here: https://vorondesign.com/voron_stealthburner
 
-**Notes:** You might want to buy 5-10% extra of the Fasteners just in case. As for the Linear Rails, you only need 4 if you are doing a non-pro conversion). For the Drag Chain, usually ONE chain will do, but you'll need to buy 2 additional *sets* of ends for it then.
-|Area|Part|Quantity|
-|----------|----------|----------|
-|Printed|X-Y-Z Movement|All|
-|Printed|Aesthetic (Grills, skirts)|All|
-|Printed|Toolhead (Stealthburner|All|
-|Electrical|16awg Wire (mains to PSU)|1 set|
-|Electrical|20awg FEP/PTFE Wire (MCU to Toolhead Heater)|1 set|
-|Electrical|24awg FEP/PTFE Wire (MCU to Toolhead)|1 set|
-|Electrical|??awg FEP/PTFE Wire (Heatbed to MCU)|1 set|
-|Electrical|24awg Silicone Wire (5v PSU to Pi)|1 set|
-|Electrical|Mean Well RS-25-5 PSU (For RPi)|1|
-|Electrical|Axial Fan 6040 or 6020 24v (chassis fan)|1|
-|Electrical|Raspberry Pi 3b+ or better|1|
-|Electrical|Omron TL-Q5MC2 - NPN Inductive Probe|1|
-|Electrical|SPDT KW10 Limit Micro Switch|2|
-|Electrical|BAT85 Diode|1|
-|Fasteners + Hardware|m3x5x4 Heat Set Inserts|55|
+**Notes:** Fasteners quantities include an additional 10% over what is required just in case. As for the Linear Rails, you only need 4 if you are doing a non-pro conversion). For the Drag Chain, usually ONE chain will do, but you'll need to buy 2 additional *sets* of ends for it then.
+**Printed**
+|Part|Quantity|
+|----------|----------|
+|X-Y-Z Movement|All|
+|Aesthetic (Grills, skirts)|All|
+|Toolhead (Stealthburner|All|
+**Electrical**
+|Part|Quantity|
+|----------|----------|
+|16awg Wire (mains to PSU)|1 set|
+|20awg FEP/PTFE Wire (MCU to Toolhead Heater)|1 set|
+|24awg FEP/PTFE Wire (MCU to Toolhead)|1 set|
+|??awg FEP/PTFE Wire (Heatbed to MCU)|1 set|
+|24awg Silicone Wire (5v PSU to Pi)|1 set|
+|Mean Well RS-25-5 PSU (For RPi)|1|
+|Mean Well LRS-350-24 (Optional, recommended)|1|
+|Axial Fan 6040 or 6020 24v (chassis fan)|1|
+|Raspberry Pi 3b+ or better|1|
+|Bigtreetech SKR Mini E3 v3 (Optional, recommended)|1|
+|Omron TL-Q5MC2 - NPN Inductive Probe|1|
+|SPDT KW10 Limit Micro Switch|2|
+|BAT85 Diode|1|
+**Fasteners + Hardware**
+|Part|Quantity|
+|----------|----------|
+|Fasteners + Hardware|m3x5x4 Heat Set Inserts|70|
+|Fasteners + Hardware|2020 m3 Roll-in T-nuts|30|
+|Fasteners + Hardware|2020 m5 Roll-in T-nuts|75|
+|Fasteners + Hardware|m3 x XX Socket Head Cap Screws|x|
 |Fasteners + Hardware|xxx|x|
 |Fasteners + Hardware|xxx|x|
+|Fasteners + Hardware|m5 x XX Socket Head Cap Screws|x|
 |Fasteners + Hardware|xxx|x|
 |Fasteners + Hardware|xxx|x|
+|Fasteners + Hardware|m3 x XX Button Head Cap Screws|x|
 |Fasteners + Hardware|xxx|x|
 |Fasteners + Hardware|xxx|x|
+|Fasteners + Hardware|m5 x XX Button Head Cap Screws|x|
 |Fasteners + Hardware|xxx|x|
 |Fasteners + Hardware|xxx|x|
-|Fasteners + Hardware|xxx|x|
-|Fasteners + Hardware|xxx|x|
+|Fasteners + Hardware|m3 x XX Flat Head Cap Screws|x|
+|Fasteners + Hardware|mX x XX Self Tapping Screws|x|
+**Motion**
+|Part|Quantity|
+|----------|----------|
 |Motion|Linear Rail 12H 300mm, Stainless Steel LDO-SLR12H-300|5|
 |Motion|F695-2RS Bearings|20|
 |Motion|Key-bak **Super48** - 13oz - 36"|1|
@@ -71,8 +89,14 @@ These are the parts that you will need to source (aka: buy) to make the conversi
 |Motion|Drag Chain, 10x10mm, R18, 15 links|1|
 |Motion|Drag Chain, 10x10mm, R18, 18 links|1|
 |Motion|Drag Chain, 10x10mm, R18, 26 links|1|
+**Toolhead**
+|Part|Quantity|
+|----------|----------|
 |Toolhead|PTFE Teflon Tube (4mm OD 2mm ID) - 10cm|1|
 |Toolhead|PTFE Teflon Tube (4mm OD 3mm ID) - 1.2m|1|
+**Enclosure and Deck**
+|Part|Quantity|
+|----------|----------|
 |Enclosure and Deck|6x3mm Neodymium Magnets|10|
 |Enclosure and Deck|3M VHB Tape (3/4")|1 roll|
 |Enclosure and Deck|Acrylic Panel(s)|???|
