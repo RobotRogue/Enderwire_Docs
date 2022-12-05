@@ -25,14 +25,11 @@ Do so at your own risk, I take no responsibility or liability for your own actio
 # Models and Repositories
 ### – Ender Printable Conversion Parts:
 *For Enders with a 4040 y-extrusion:*
-
-**DarkDog's Rev.2 Conversion:** https://github.com/boubounokefalos/Ender_SW/tree/Rev.2
+* **DarkDog's Rev.2 Conversion:** https://github.com/boubounokefalos/Ender_SW/tree/Rev.2
 
 *For Enders with a 2020 y-extrusion:*
-
-**Gizzle's Non-Pro Conversion:** https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Gizzle/ender-3_(pro)_switchwire
-
-**Thomasjfen's Non-Pro-to-DarkDogs Conversion: (to fit Gizzles y-axis into the DarkDog Rev.2 Conversion)** https://github.com/thomasfjen/enderwire_nonpro
+* **Gizzle's Non-Pro Conversion:** https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Gizzle/ender-3_(pro)_switchwire
+* **Thomasjfen's Non-Pro-to-DarkDogs Conversion: (to fit Gizzles y-axis into the DarkDog Rev.2 Conversion)** https://github.com/thomasfjen/enderwire_nonpro
 
 If you have a non-pro Ender 3 (aka: the 2040 y-extrusion version) it's recommended to print the majority of DarkDog's parts, and use the y-axis parts from Gizzle or Thomasjfens repositories. (You'll have to mix and match and figure out what will work since the non-pro is not really a mainstream conversion)
 
@@ -54,21 +51,21 @@ The repository for the Stealthburner toolhead can be found here: https://github.
 ### – Bill of Materials (BOM):
 These are the parts that you will need to source (aka: buy) to make the conversion happen.
 
-**Note: You also need to source all the parts listed in the Stealthburner BOM!** Found here: https://vorondesign.com/voron_stealthburner
+**You also need to source all the parts listed in the Stealthburner BOM!!** Found here: https://vorondesign.com/voron_stealthburner
 
 **Notes:** 
 * Fasteners quantities include an additional 10% over what is required just in case.  (I tried my best consolidating the various user-created fastener BOMs, so the counts/bolt types may not be totally accurate.)
 * The Linear Rails, you only need 4 if you are doing a non-pro conversion). 
 * The Drag Chain, usually ONE chain will do, but you'll need to buy 2 additional *sets* of ends for it then.
 
-**Printed**
+**Printed Parts**
 |Part|Quantity|
 |----------|----------|
 |Gantry, Electronics|All|
 |Aesthetic (Grills, Extensions, Panel Mounting, Misc)|All|
 |Toolhead (Stealthburner)|All|
 
-**Electrical**
+**Electrical Parts**
 |Part|Quantity|
 |----------|----------|
 |16awg Wire (mains to PSU)|1 set|
@@ -123,7 +120,7 @@ These are the parts that you will need to source (aka: buy) to make the conversi
 |m4 Nylock Nuts|4|
 |m5 Nylock Nuts|4|
 
-**Motion**
+**Motion System**
 |Part|Quantity|
 |----------|----------|
 |Linear Rail 12H 300mm, Stainless Steel LDO-SLR12H-300|5|
@@ -161,4 +158,6 @@ These are the parts that you will reuse from your existing Ender 3 (assuming it 
 * **Heatbed and Heatbed Y-Carriage** - The heatbed is actually pretty good, but you will have to drill out your y-carriage (more on that later)
 
 # The Build:
-### – Teardown:
+To get an idea of what is involved in a build, it is highly recommended that you pre-read the official Switchwire assembly manual, as it will contain a **LOT** of information that will be relevant when performing your Enderwire conversion. The manual can be found here: **https://github.com/VoronDesign/Voron-Switchwire/raw/master/Manuals/Assembly_Manual_SW.pdf**
+
+### – The Teardown:
