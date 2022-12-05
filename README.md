@@ -31,6 +31,9 @@ The repository for the Stealthburner toolhead can be found here: https://github.
 # Parts:
 ### Bill of Materials (BOM)
 These are the parts that you will need to source (aka: buy) to make the conversion happen. 
+
+**Note: You also need to source all the parts listed in the Stealthburner BOM!** Found here: https://vorondesign.com/voron_stealthburner
+
 **Notes:** You might want to buy 5-10% extra of the Fasteners just in case. As for the Linear Rails, you only need 4 if you are doing a non-pro conversion). For the Drag Chain, usually ONE chain will do, but you'll need to buy 2 additional *sets* of ends for it then.
 |Area|Part|Quantity|
 |----------|----------|----------|
@@ -74,15 +77,14 @@ These are the parts that you will need to source (aka: buy) to make the conversi
 |Enclosure and Deck|Acrylic Panel(s)|???|
 |Enclosure and Deck|ACM or ABS Panels|???|
 
-**Note: You also need to source all the parts listed in the Stealthburner BOM!** Found here: https://vorondesign.com/voron_stealthburner
-
 ### Reuseable Parts
 These are the parts that you will reuse from your existing Ender 3 (assuming it is a stock Ender 3, if you replaced stuff, your mileage may vary)
 
-The Frame - all parts of your Ender 3 frame will be used for the conversion
-The Mainboard (MCU) - if you have the v4.2.2 or v4.2.7 32-bit Creality mainboard, that will be enough for the conversion
-The Power Supply - the stock 350w 24v 15a power supply will be good enough
-The Stepper Motors - you will only need the X, Y, and Z motors. The extruder motor is not used (see Stealthburner section)
-The Power Inlet - this is the part where you plug the power cord into the Ender. It will be needed to complete the conversion.
-The Hotend - Sort of. You *can* get away with this hotend, but it's recommended to get an e3d v6 or better hotend. 
-The Heatbed and Heatbed Y-Carriage - The heatbed is actually pretty good, but you will have to drill out your y-carriage (more on that later)
+* The Frame - all parts of your Ender 3 frame will be used for the conversion
+* The Mainboard (MCU) - if you have the v4.2.2 or v4.2.7 32-bit Creality mainboard, that will be enough for the conversion
+* The Power Supply - the stock 350w 24v 15a power supply will be good enough
+* The Stepper Motors - you will only need the X, Y, and Z motors. The extruder motor is not used (see Stealthburner section)
+* The Power Inlet - this is the part where you plug the power cord into the Ender. It will be needed to complete the conversion.
+* The Hotend - Sort of. You *can* get away with this hotend, but it's recommended to get an e3d v6 or better hotend. 
+* The Heatbed and Heatbed Y-Carriage - The heatbed is actually pretty good, but you will have to drill out your y-carriage (more on that later)
+
