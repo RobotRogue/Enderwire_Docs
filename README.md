@@ -76,63 +76,63 @@ These are the parts that you will need to source (aka: buy) to make the conversi
 **Fasteners + Hardware**
 |Part|Quantity|
 |----------|----------|
-|Fasteners + Hardware|m3x5x4 Heat Set Inserts|110|
-|Fasteners + Hardware|2020 m3 Roll-in T-nuts|30|
-|Fasteners + Hardware|2020 m5 Roll-in T-nuts|75|
-|Fasteners + Hardware|m3 x 8mm Socket Head Cap Screws|90|
-|Fasteners + Hardware|m3 x 10mm Socket Head Cap Screws|2|
-|Fasteners + Hardware|m3 x 12mm Socket Head Cap Screws|35|
-|Fasteners + Hardware|m3 x 16mm Socket Head Cap Screws|12|
-|Fasteners + Hardware|m3 x 20mm Socket Head Cap Screws|3|
-|Fasteners + Hardware|m3 x 25mm Socket Head Cap Screws|6|
-|Fasteners + Hardware|m3 x 30mm Socket Head Cap Screws|17|
-|Fasteners + Hardware|m3 x 40mm Socket Head Cap Screws (???)|9|
-|Fasteners + Hardware|m3 x 50mm Socket Head Cap Screws (???)|1|
-|Fasteners + Hardware|m4 x 20mm Socket Head Cap Screws|2|
-|Fasteners + Hardware|m5 x 40 Socket Head Cap Screws|8|
-|Fasteners + Hardware|m3 x 6mm Button Head Cap Screws|1|
-|Fasteners + Hardware|m4 x 6mm Button Head Cap Screws|1|
-|Fasteners + Hardware|m5 x 10mm Button Head Cap Screws|29|
-|Fasteners + Hardware|m5 x 16mm Button Head Cap Screws|28|
-|Fasteners + Hardware|m5 x 20mm Button Head Cap Screws|1|
-|Fasteners + Hardware|m5 x 30mm Button Head Cap Screws|4|
-|Fasteners + Hardware|m5 x 10mm Button Head Cap Screws|28|
-|Fasteners + Hardware|m3 x 6mm Flat Head Cap Screws|18|
-|Fasteners + Hardware|m3 x 8mm Flat Head Cap Screws|2|
-|Fasteners + Hardware|m2 x 10mm Self Tapping Screws|8|
-|Fasteners + Hardware|m3 Washers|1|
-|Fasteners + Hardware|m5 x 2mm ABS Spacers/Washers|11|
-|Fasteners + Hardware|m5 Spacers (???)|19|
-|Fasteners + Hardware|m5 Idlers|12|
-|Fasteners + Hardware|m3 Nylock Nuts|4|
-|Fasteners + Hardware|m4 Nylock Nuts|4|
-|Fasteners + Hardware|m5 Nylock Nuts|4|
+|m3x5x4 Heat Set Inserts|110|
+|2020 m3 Roll-in T-nuts|30|
+|2020 m5 Roll-in T-nuts|75|
+|m3 x 8mm Socket Head Cap Screws|90|
+|m3 x 10mm Socket Head Cap Screws|2|
+|m3 x 12mm Socket Head Cap Screws|35|
+|m3 x 16mm Socket Head Cap Screws|12|
+|m3 x 20mm Socket Head Cap Screws|3|
+|m3 x 25mm Socket Head Cap Screws|6|
+|m3 x 30mm Socket Head Cap Screws|17|
+|m3 x 40mm Socket Head Cap Screws (???)|9|
+|m3 x 50mm Socket Head Cap Screws (???)|1|
+|m4 x 20mm Socket Head Cap Screws|2|
+|m5 x 40 Socket Head Cap Screws|8|
+|m3 x 6mm Button Head Cap Screws|1|
+|m4 x 6mm Button Head Cap Screws|1|
+|m5 x 10mm Button Head Cap Screws|29|
+|m5 x 16mm Button Head Cap Screws|28|
+|m5 x 20mm Button Head Cap Screws|1|
+|m5 x 30mm Button Head Cap Screws|4|
+|m5 x 10mm Button Head Cap Screws|28|
+|m3 x 6mm Flat Head Cap Screws|18|
+|m3 x 8mm Flat Head Cap Screws|2|
+|m2 x 10mm Self Tapping Screws|8|
+|m3 Washers|1|
+|m5 x 2mm ABS Spacers/Washers|11|
+|m5 Spacers (???)|19|
+|m5 Idlers|12|
+|m3 Nylock Nuts|4|
+|m4 Nylock Nuts|4|
+|m5 Nylock Nuts|4|
 
 **Motion**
 |Part|Quantity|
 |----------|----------|
-|Motion|Linear Rail 12H 300mm, Stainless Steel LDO-SLR12H-300|5|
-|Motion|F695-2RS Bearings|20|
-|Motion|Key-bak **Super48** - 13oz - 36"|1|
-|Motion|Pulley, 2GT, 20T, (5mm ID 6mm W)|3|
-|Motion|Gates Open Belt, 2GT, 6mm|4 meters|
-|Motion|Drag Chain, 10x10mm, R18, 15 links|1|
-|Motion|Drag Chain, 10x10mm, R18, 18 links|1|
-|Motion|Drag Chain, 10x10mm, R18, 26 links|1|
+|Linear Rail 12H 300mm, Stainless Steel LDO-SLR12H-300|5|
+|F695-2RS Bearings|20|
+|Key-bak **Super48** - 13oz - 36"|1|
+|Pulley, 2GT, 20T, (5mm ID 6mm W)|3|
+|Gates Open Belt, 2GT, 6mm|4 meters|
+|Drag Chain, 10x10mm, R18, 15 links|1|
+|Drag Chain, 10x10mm, R18, 18 links|1|
+|Drag Chain, 10x10mm, R18, 26 links|1|
 
 **Toolhead**
 |Part|Quantity|
 |----------|----------|
-|Toolhead|PTFE Teflon Tube (4mm OD 2mm ID) - 10cm|1|
-|Toolhead|PTFE Teflon Tube (4mm OD 3mm ID) - 1.2m|1|
+|PTFE Teflon Tube (4mm OD 2mm ID) - 10cm|1|
+|PTFE Teflon Tube (4mm OD 3mm ID) - 1.2m|1|
 
 **Enclosure and Deck**
 |Part|Quantity|
 |----------|----------|
-|Enclosure and Deck|6x3mm Neodymium Magnets|10|
-|Enclosure and Deck|3M VHB Tape (3/4")|1 roll|
-|Enclosure and Deck|Acrylic Panel(s)|???|
-|Enclosure and Deck|ACM or ABS Panels|???|
+|6x3mm Neodymium Magnets|10|
+|3M VHB Tape (3/4")|1 roll|
+|Acrylic Panel(s)|???|
+|ACM or ABS Panels|???|
 
 ### Reuseable Parts
 These are the parts that you will reuse from your existing Ender 3 (assuming it is a stock Ender 3, if you replaced stuff, your mileage may vary)
