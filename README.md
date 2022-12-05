@@ -5,24 +5,25 @@
 
 This repository outlines the steps to convert your Ender 3 into a CoreXZ movement printer based on the Voron Switchwire. There wasn't really a lot of consolidated information about this so I decided to write it up into a guide. If you see anything that needs updating, open a Pull Request in GitHub here or message **RobotRogue#8401** on Discord.
 
-### **Disclaimer!**
+### – **Disclaimer!**
 Proceed with caution! Many steps in a conversion could lead to injury especially when dealing with mains wiring. 
 Do so at your own risk, I take no responsibility or liability for your own actions, this guide is informational only.
 
-### Community + Additional Info:
+### – Community + Additional Info:
 * **Voron Community Discord:** https://discord.com/invite/voron
 * Select a Country in the Rules channel to be able to see the **#ender_conversion_chat** thread https://discord.com/channels/460117602945990666/658599170734686219
 
 ![Enclosed Enderwire](https://github.com/RobotRogue/Enderwire_Docs/blob/6034371b4d0b9766961207a7af738717ab789e86/Ender%20SW%20Rev_2.png)
 
 # Prerequisites:
+**Start here...**
 * Your printer is an Ender 3 with either a 2040 or a 4040 Y-axis extrusion.
 * Your printer has a 32-bit mainboard (Creality 4.2.2 or 4.2.7) if you plan to reuse the Creality mainboard.
 * You have access to a printer that can print ABS parts (the stock Ender 3 with the white PTFE tube and non-all metal hotend is not recommended or even really safe to print ABS with)
 * You are familiar or comfortable enough building a 3D printer from scratch, and are able to figure out how to source your own parts and read documentation.
 
 # Models and Repositories
-### Ender Printable Conversion Parts:
+### – Ender Printable Conversion Parts:
 *For Enders with a 4040 y-extrusion:*
 **DarkDog's Rev.2 Conversion:** https://github.com/boubounokefalos/Ender_SW/tree/Rev.2
 
@@ -33,13 +34,13 @@ Do so at your own risk, I take no responsibility or liability for your own actio
 
 If you have a non-pro Ender 3 (aka: the 2040 y-extrusion version) it's recommended to print the majority of DarkDog's parts, and use the y-axis parts from Gizzle or Thomasjfens repositories. (You'll have to mix and match and figure out what will work since the non-pro is not really a mainstream conversion)
 
-### Stealthburner Repository:
+### – Stealthburner Repository:
 The Enderwire conversion you can really use whatever hotend and toolhead you can find parts for (again, you'll have to do the legwork to find models and info about these not-commonly-used setups) -- however for the easiest time it's recommended to use the Stealthburner toolhead.
 
 The repository for the Stealthburner toolhead can be found here: https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs
 
 # Parts:
-### Bill of Materials (BOM)
+### – Bill of Materials (BOM):
 These are the parts that you will need to source (aka: buy) to make the conversion happen.
 
 **Note: You also need to source all the parts listed in the Stealthburner BOM!** Found here: https://vorondesign.com/voron_stealthburner
@@ -107,7 +108,6 @@ These are the parts that you will need to source (aka: buy) to make the conversi
 |m3 Washers|1|
 |m5 x 2mm ABS Spacers/Washers|11|
 |m5 Spacers (???)|19|
-|m5 Idlers|12|
 |m3 Nylock Nuts|4|
 |m4 Nylock Nuts|4|
 |m5 Nylock Nuts|4|
@@ -138,7 +138,7 @@ These are the parts that you will need to source (aka: buy) to make the conversi
 |Acrylic Panel(s)|???|
 |ACM or ABS Panels|???|
 
-### Reuseable Parts
+### – Reuseable Parts:
 These are the parts that you will reuse from your existing Ender 3 (assuming it is a stock Ender 3, if you replaced stuff, your mileage may vary)
 
 * **Frame** - all parts of your Ender 3 frame will be used for the conversion -- **NOTE:** The x-axis extrusion will need to be cut shorter. Details to follow.
@@ -150,4 +150,4 @@ These are the parts that you will reuse from your existing Ender 3 (assuming it 
 * **Heatbed and Heatbed Y-Carriage** - The heatbed is actually pretty good, but you will have to drill out your y-carriage (more on that later)
 
 # The Build:
-### Teardown:
+### – Teardown:
