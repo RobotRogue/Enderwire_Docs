@@ -2,16 +2,16 @@
 
 **NOTE!!! THIS DOCUMENT IS INCOMPLETE AND A WORK IN PROGRESS!!! MANY ITEMS MAY CHANGE OR BE REMOVED/REWORDED!!!**
 
-
+### – Preface:
 This repository outlines the steps to convert your Ender 3 into a CoreXZ movement printer based on the Voron Switchwire. There wasn't really a lot of consolidated information about this so I decided to write it up into a guide. If you see anything that needs updating, open a Pull Request in GitHub here or message **RobotRogue#8401** on Discord.
-
-### – **Disclaimer!**
-Proceed with caution! Many steps in a conversion could lead to injury especially when dealing with mains wiring. 
-Do so at your own risk, I take no responsibility or liability for your own actions, this guide is informational only.
 
 ### – Community + Additional Info:
 * **Voron Community Discord:** https://discord.com/invite/voron
 * Select a Country in the Rules channel to be able to see the **#ender_conversion_chat** thread https://discord.com/channels/460117602945990666/658599170734686219
+
+### – **Disclaimer!**
+Proceed with caution! Many steps in a conversion could lead to injury especially when dealing with mains wiring. 
+Do so at your own risk, I take no responsibility or liability for your own actions, this guide is informational only.
 
 ![Enclosed Enderwire](https://github.com/RobotRogue/Enderwire_Docs/blob/6034371b4d0b9766961207a7af738717ab789e86/Ender%20SW%20Rev_2.png)
 
@@ -33,6 +33,15 @@ Do so at your own risk, I take no responsibility or liability for your own actio
 **Thomasjfen's Non-Pro-to-DarkDogs Conversion: (to fit Gizzles y-axis into the DarkDog Rev.2 Conversion)** https://github.com/thomasfjen/enderwire_nonpro
 
 If you have a non-pro Ender 3 (aka: the 2040 y-extrusion version) it's recommended to print the majority of DarkDog's parts, and use the y-axis parts from Gizzle or Thomasjfens repositories. (You'll have to mix and match and figure out what will work since the non-pro is not really a mainstream conversion)
+
+**The official Voron recommendations for printing your own parts are:**
+* **Material** - ABS (possibly ASA)
+* **Layer Height** - Recommended: 0.2mm
+* **Extrusion Width** - Recommended: Forced 0.4mm
+* **Infill Type** - Grid, Gyroid, Honeycomb, Triangle or Cubic
+* **Infill Percentage** - Recommended: 40%
+* **Wall Count** - Recommended: 4
+* **Solid Top/Bottom Layers** - Recommended: 5
 
 ### – Stealthburner Repository:
 The Enderwire conversion you can really use whatever hotend and toolhead you can find parts for (again, you'll have to do the legwork to find models and info about these not-commonly-used setups) -- however for the easiest time it's recommended to use the Stealthburner toolhead.
