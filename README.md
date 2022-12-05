@@ -36,12 +36,14 @@ These are the parts that you will need to source (aka: buy) to make the conversi
 **Note: You also need to source all the parts listed in the Stealthburner BOM!** Found here: https://vorondesign.com/voron_stealthburner
 
 **Notes:** Fasteners quantities include an additional 10% over what is required just in case. As for the Linear Rails, you only need 4 if you are doing a non-pro conversion). For the Drag Chain, usually ONE chain will do, but you'll need to buy 2 additional *sets* of ends for it then.
+
 **Printed**
 |Part|Quantity|
 |----------|----------|
 |X-Y-Z Movement|All|
 |Aesthetic (Grills, skirts)|All|
 |Toolhead (Stealthburner|All|
+
 **Electrical**
 |Part|Quantity|
 |----------|----------|
@@ -58,6 +60,7 @@ These are the parts that you will need to source (aka: buy) to make the conversi
 |Omron TL-Q5MC2 - NPN Inductive Probe|1|
 |SPDT KW10 Limit Micro Switch|2|
 |BAT85 Diode|1|
+
 **Fasteners + Hardware**
 |Part|Quantity|
 |----------|----------|
@@ -78,6 +81,7 @@ These are the parts that you will need to source (aka: buy) to make the conversi
 |Fasteners + Hardware|xxx|x|
 |Fasteners + Hardware|m3 x XX Flat Head Cap Screws|x|
 |Fasteners + Hardware|mX x XX Self Tapping Screws|x|
+
 **Motion**
 |Part|Quantity|
 |----------|----------|
@@ -89,11 +93,13 @@ These are the parts that you will need to source (aka: buy) to make the conversi
 |Motion|Drag Chain, 10x10mm, R18, 15 links|1|
 |Motion|Drag Chain, 10x10mm, R18, 18 links|1|
 |Motion|Drag Chain, 10x10mm, R18, 26 links|1|
+
 **Toolhead**
 |Part|Quantity|
 |----------|----------|
 |Toolhead|PTFE Teflon Tube (4mm OD 2mm ID) - 10cm|1|
 |Toolhead|PTFE Teflon Tube (4mm OD 3mm ID) - 1.2m|1|
+
 **Enclosure and Deck**
 |Part|Quantity|
 |----------|----------|
