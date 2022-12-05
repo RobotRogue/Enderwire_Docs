@@ -2,14 +2,14 @@
 
 **NOTE!!! THIS DOCUMENT IS INCOMPLETE AND A WORK IN PROGRESS!!! MANY ITEMS MAY CHANGE OR BE REMOVED/REWORDED!!!**
 
-### – Preface:
+# Preface:
 This repository outlines the steps to convert your Ender 3 into a CoreXZ movement printer based on the Voron Switchwire. There wasn't really a lot of consolidated information about this so I decided to write it up into a guide. If you see anything that needs updating, open a Pull Request in GitHub here or message **RobotRogue#8401** on Discord.
 
-### – Community + Additional Info:
+# Community + Additional Info:
 * **Voron Community Discord:** https://discord.com/invite/voron
 * Select a Country in the Rules channel to be able to see the **#ender_conversion_chat** thread https://discord.com/channels/460117602945990666/658599170734686219
 
-### – **Disclaimer!**
+# **Disclaimer!**
 **Proceed with caution!** Many steps in a conversion could lead to injury especially when dealing with mains wiring. 
 Do so at your own risk, I take no responsibility or liability for your own actions, this guide is informational only.
 
@@ -68,18 +68,19 @@ These are the parts that you will need to source (aka: buy) to make the conversi
 **Electrical Parts**
 |Part|Quantity|
 |----------|----------|
-|16awg Wire (mains to PSU)|1 set|
-|20awg FEP/PTFE Wire (MCU to Toolhead Heater)|1 set|
-|24awg FEP/PTFE Wire (MCU to Toolhead)|1 set|
-|??awg FEP/PTFE Wire (Heatbed to MCU)|1 set|
-|24awg Silicone Wire (5v PSU to Pi)|1 set|
+|16awg Silicone Wire (mains to PSU)|12 feet|
+|24awg Silicone Wire (5v PSU to Pi)|6 feet|
+|18awg FEP/PTFE Wire (Heatbed to MCU)|6 feet|
+|20awg FEP/PTFE Wire (MCU to Toolhead Heater)|100 feet|
+|24awg FEP/PTFE Wire (MCU to Toolhead)|12 feet|
+|24awg FEP/PTFE Wire (Heatbed limit switch and thermistor)|12 feet|
 |Mean Well RS-25-5 PSU (For RPi)|1|
 |Mean Well LRS-350-24 (Optional, recommended)|1|
 |Axial Fan 6040 or 6020 24v (chassis fan)|1|
 |Raspberry Pi 3b+ or better|1|
 |Bigtreetech SKR Mini E3 v3 (Optional, recommended)|1|
 |Omron TL-Q5MC2 - NPN Inductive Probe|1|
-|SPDT KW10 Limit Micro Switch|2|
+|SPDT KW10 Limit Micro Switch (X and Y limit switches)|2|
 |BAT85 Diode|1|
 |NEMA17 Stepper Motor 17HS15-1504S1 (Optional, recommended)|3|
 |Mini 12864 Display (Optional)|1|
@@ -158,6 +159,10 @@ These are the parts that you will reuse from your existing Ender 3 (assuming it 
 * **Heatbed and Heatbed Y-Carriage** - The heatbed is actually pretty good, but you will have to drill out your y-carriage (more on that later)
 
 # The Build:
-To get an idea of what is involved in a build, it is highly recommended that you pre-read the official Switchwire assembly manual, as it will contain a **LOT** of information that will be relevant when performing your Enderwire conversion. The manual can be found here: **https://github.com/VoronDesign/Voron-Switchwire/raw/master/Manuals/Assembly_Manual_SW.pdf**
+To get an idea of what is involved in a build, it is highly recommended that you pre-read the official Switchwire assembly manual, as it will contain a **LOT** of information that will be relevant when performing your Enderwire conversion. 
+
+The manual can be found here: **https://github.com/VoronDesign/Voron-Switchwire/raw/master/Manuals/Assembly_Manual_SW.pdf**
 
 ### – The Teardown:
+
+WORK IN PROGRESS -- TO BE ADDED
