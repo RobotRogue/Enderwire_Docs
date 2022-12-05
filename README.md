@@ -11,7 +11,7 @@ Voron Discord: https://discord.com/invite/voron
 
 Select a Country in the Rules channel to be able to see the #ender_conversion_chat thread https://discord.com/channels/460117602945990666/658599170734686219
 
-![Enclosed Enderwire](Ender SW Rev_2.png)
+![Enclosed Enderwire](https://github.com/RobotRogue/Enderwire_Docs/blob/6034371b4d0b9766961207a7af738717ab789e86/Ender%20SW%20Rev_2.png)
 
 # Prerequisites:
 * Your printer is an Ender 3 with either a 2040 or a 4040 Y-axis extrusion.
