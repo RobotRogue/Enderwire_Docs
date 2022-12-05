@@ -4,6 +4,7 @@ This repository outlines the steps to convert your Ender 3 into a CoreXZ movemen
 **Disclaimer**: Proceed with caution, many steps in a conversion could lead to injury especially when dealing with mains wiring. Do so at your own risk, I take no responsibility or liability for your own actions, this guide is informational only.
 
 Voron Discord: https://discord.com/invite/voron
+
 Select a Country in the Rules channel to be able to see the #ender_conversion_chat thread https://discord.com/channels/460117602945990666/658599170734686219
 
 # Prerequisites:
@@ -80,11 +81,11 @@ These are the parts that you will need to source (aka: buy) to make the conversi
 ### Reuseable Parts
 These are the parts that you will reuse from your existing Ender 3 (assuming it is a stock Ender 3, if you replaced stuff, your mileage may vary)
 
-* The Frame - all parts of your Ender 3 frame will be used for the conversion
-* The Mainboard (MCU) - if you have the v4.2.2 or v4.2.7 32-bit Creality mainboard, that will be enough for the conversion
-* The Power Supply - the stock 350w 24v 15a power supply will be good enough
-* The Stepper Motors - you will only need the X, Y, and Z motors. The extruder motor is not used (see Stealthburner section)
-* The Power Inlet - this is the part where you plug the power cord into the Ender. It will be needed to complete the conversion.
-* The Hotend - Sort of. You *can* get away with this hotend, but it's recommended to get an e3d v6 or better hotend. 
-* The Heatbed and Heatbed Y-Carriage - The heatbed is actually pretty good, but you will have to drill out your y-carriage (more on that later)
+* **Frame** - all parts of your Ender 3 frame will be used for the conversion
+* **Mainboard** (MCU) - if you have the v4.2.2 or v4.2.7 32-bit Creality mainboard, that will be enough for the conversion
+* **Power Supply** - the stock 350w 24v 15a power supply will be good enough
+* **Stepper Motors** - you will only need the X, Y, and Z motors. The extruder motor is not used (see Stealthburner section)
+* **Power Inlet** - this is the part where you plug the power cord into the Ender. It will be needed to complete the conversion.
+* **Hotend** - Sort of. You *can* get away with this hotend, but it's recommended to get an e3d v6 or better hotend. 
+* **Heatbed and Heatbed Y-Carriage** - The heatbed is actually pretty good, but you will have to drill out your y-carriage (more on that later)
 
