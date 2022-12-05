@@ -24,7 +24,7 @@ Select a Country in the Rules channel to be able to see the #ender_conversion_ch
 
 *For Enders with a 2020 y-extrusion:*
 **Gizzle's Non-Pro Conversion:** https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Gizzle/ender-3_(pro)_switchwire
-**Thomasjfen's Non-Pro Conversion:** https://github.com/thomasfjen/enderwire_nonpro
+**Thomasjfen's Non-Pro-to-DarkDogs Conversion: (to fit gizzles y axis into the dark dogs builds)** https://github.com/thomasfjen/enderwire_nonpro
 
 If you have a non-pro Ender 3 (aka: the 2040 y-extrusion version) it's recommended to print the majority of DarkDog's parts, and use the y-axis parts from Gizzle or Thomasjfens repositories. (You'll have to mix and match and figure out what will work since the non-pro is not really a mainstream conversion)
 
@@ -120,7 +120,7 @@ These are the parts that you will need to source (aka: buy) to make the conversi
 ### Reuseable Parts
 These are the parts that you will reuse from your existing Ender 3 (assuming it is a stock Ender 3, if you replaced stuff, your mileage may vary)
 
-* **Frame** - all parts of your Ender 3 frame will be used for the conversion
+* **Frame** - all parts of your Ender 3 frame will be used for the conversion -- **NOTE:** The x-axis extrusion will need to be cut shorter. Details to follow.
 * **Mainboard** (MCU) - if you have the v4.2.2 or v4.2.7 32-bit Creality mainboard, that will be enough for the conversion
 * **Power Supply** - the stock 350w 24v 15a power supply will be good enough
 * **Stepper Motors** - you will only need the X, Y, and Z motors. The extruder motor is not used (see Stealthburner section)
