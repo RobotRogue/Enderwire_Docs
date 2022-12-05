@@ -11,6 +11,8 @@ Voron Discord: https://discord.com/invite/voron
 
 Select a Country in the Rules channel to be able to see the #ender_conversion_chat thread https://discord.com/channels/460117602945990666/658599170734686219
 
+![Enclosed Enderwire](enclosed-enderwire.png)
+
 # Prerequisites:
 * Your printer is an Ender 3 with either a 2040 or a 4040 Y-axis extrusion.
 * Your printer has a 32-bit mainboard (Creality 4.2.2 or 4.2.7) if you plan to reuse the Creality mainboard.
