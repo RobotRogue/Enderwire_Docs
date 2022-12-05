@@ -3,7 +3,7 @@
 **NOTE!!! THIS DOCUMENT IS INCOMPLETE AND A WORK IN PROGRESS!!! MANY ITEMS MAY CHANGE OR BE REMOVED/REWORDED!!!**
 
 
-This repository outlines the steps to convert your Ender 3 into a CoreXZ movement printer based on the Voron Switchwire. There wasn't really a lot of consolidated information about this so I decided to write it up into a guide.
+This repository outlines the steps to convert your Ender 3 into a CoreXZ movement printer based on the Voron Switchwire. There wasn't really a lot of consolidated information about this so I decided to write it up into a guide. If you see anything that needs updating, open a Pull Request in GitHub here or message **RobotRogue#8401** on Discord
 
 **Disclaimer**: Proceed with caution, many steps in a conversion could lead to injury especially when dealing with mains wiring. Do so at your own risk, I take no responsibility or liability for your own actions, this guide is informational only.
 
@@ -36,11 +36,14 @@ The repository for the Stealthburner toolhead can be found here: https://github.
 
 # Parts:
 ### Bill of Materials (BOM)
-These are the parts that you will need to source (aka: buy) to make the conversion happen. 
+These are the parts that you will need to source (aka: buy) to make the conversion happen.
 
 **Note: You also need to source all the parts listed in the Stealthburner BOM!** Found here: https://vorondesign.com/voron_stealthburner
 
-**Notes:** Fasteners quantities include an additional 10% over what is required just in case. As for the Linear Rails, you only need 4 if you are doing a non-pro conversion). For the Drag Chain, usually ONE chain will do, but you'll need to buy 2 additional *sets* of ends for it then.
+**Notes:** 
+* Fasteners quantities include an additional 10% over what is required just in case.  (I tried my best consolidating the various user-created fastener BOMs, so the counts/bolt types may not be totally accurate.)
+* The Linear Rails, you only need 4 if you are doing a non-pro conversion). 
+* The Drag Chain, usually ONE chain will do, but you'll need to buy 2 additional *sets* of ends for it then.
 
 **Printed**
 |Part|Quantity|
@@ -70,27 +73,40 @@ These are the parts that you will need to source (aka: buy) to make the conversi
 |LED Strip 240mm 24v (Optional)|2|
 |Inlet Power Socket IEC320 C14 (Optional, recommended)|1|
 
-
 **Fasteners + Hardware**
 |Part|Quantity|
 |----------|----------|
-|Fasteners + Hardware|m3x5x4 Heat Set Inserts|70|
+|Fasteners + Hardware|m3x5x4 Heat Set Inserts|110|
 |Fasteners + Hardware|2020 m3 Roll-in T-nuts|30|
 |Fasteners + Hardware|2020 m5 Roll-in T-nuts|75|
-|Fasteners + Hardware|m3 x XX Socket Head Cap Screws|x|
-|Fasteners + Hardware|xxx|x|
-|Fasteners + Hardware|xxx|x|
-|Fasteners + Hardware|m5 x XX Socket Head Cap Screws|x|
-|Fasteners + Hardware|xxx|x|
-|Fasteners + Hardware|xxx|x|
-|Fasteners + Hardware|m3 x XX Button Head Cap Screws|x|
-|Fasteners + Hardware|xxx|x|
-|Fasteners + Hardware|xxx|x|
-|Fasteners + Hardware|m5 x XX Button Head Cap Screws|x|
-|Fasteners + Hardware|xxx|x|
-|Fasteners + Hardware|xxx|x|
-|Fasteners + Hardware|m3 x XX Flat Head Cap Screws|x|
-|Fasteners + Hardware|mX x XX Self Tapping Screws|x|
+|Fasteners + Hardware|m3 x 8mm Socket Head Cap Screws|90|
+|Fasteners + Hardware|m3 x 10mm Socket Head Cap Screws|2|
+|Fasteners + Hardware|m3 x 12mm Socket Head Cap Screws|35|
+|Fasteners + Hardware|m3 x 16mm Socket Head Cap Screws|12|
+|Fasteners + Hardware|m3 x 20mm Socket Head Cap Screws|3|
+|Fasteners + Hardware|m3 x 25mm Socket Head Cap Screws|6|
+|Fasteners + Hardware|m3 x 30mm Socket Head Cap Screws|17|
+|Fasteners + Hardware|m3 x 40mm Socket Head Cap Screws (???)|9|
+|Fasteners + Hardware|m3 x 50mm Socket Head Cap Screws (???)|1|
+|Fasteners + Hardware|m4 x 20mm Socket Head Cap Screws|2|
+|Fasteners + Hardware|m5 x 40 Socket Head Cap Screws|8|
+|Fasteners + Hardware|m3 x 6mm Button Head Cap Screws|1|
+|Fasteners + Hardware|m4 x 6mm Button Head Cap Screws|1|
+|Fasteners + Hardware|m5 x 10mm Button Head Cap Screws|29|
+|Fasteners + Hardware|m5 x 16mm Button Head Cap Screws|28|
+|Fasteners + Hardware|m5 x 20mm Button Head Cap Screws|1|
+|Fasteners + Hardware|m5 x 30mm Button Head Cap Screws|4|
+|Fasteners + Hardware|m5 x 10mm Button Head Cap Screws|28|
+|Fasteners + Hardware|m3 x 6mm Flat Head Cap Screws|18|
+|Fasteners + Hardware|m3 x 8mm Flat Head Cap Screws|2|
+|Fasteners + Hardware|m2 x 10mm Self Tapping Screws|8|
+|Fasteners + Hardware|m3 Washers|1|
+|Fasteners + Hardware|m5 x 2mm ABS Spacers/Washers|11|
+|Fasteners + Hardware|m5 Spacers (???)|19|
+|Fasteners + Hardware|m5 Idlers|12|
+|Fasteners + Hardware|m3 Nylock Nuts|4|
+|Fasteners + Hardware|m4 Nylock Nuts|4|
+|Fasteners + Hardware|m5 Nylock Nuts|4|
 
 **Motion**
 |Part|Quantity|
@@ -129,3 +145,5 @@ These are the parts that you will reuse from your existing Ender 3 (assuming it 
 * **Hotend** - Sort of. You *can* get away with this hotend, but it's recommended to get an e3d v6 or better hotend. 
 * **Heatbed and Heatbed Y-Carriage** - The heatbed is actually pretty good, but you will have to drill out your y-carriage (more on that later)
 
+# The Build:
+### Teardown:
