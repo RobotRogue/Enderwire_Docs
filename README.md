@@ -8,6 +8,7 @@ This repository outlines the steps to convert your Ender 3 into a CoreXZ movemen
 # Community + Additional Info:
 * **Voron Community Discord:** https://discord.com/invite/voron
 * Select a Country in the Rules channel to be able to see the **#ender_conversion_chat** thread https://discord.com/channels/460117602945990666/658599170734686219
+* Some additional mods can be found in the pinned section in the **#ender_conversion_chat** thread as well
 
 # **Disclaimer!**
 **Proceed with caution!** Many steps in a conversion could lead to injury especially when dealing with mains wiring. 
