@@ -13,7 +13,7 @@ This repository outlines the steps to convert your Ender 3 into a CoreXZ movemen
 **Proceed with caution!** Many steps in a conversion could lead to injury especially when dealing with mains wiring. 
 Do so at your own risk, I take no responsibility or liability for your own actions, this guide is informational only.
 
-![Enclosed Enderwire](https://github.com/RobotRogue/Enderwire_Docs/blob/6034371b4d0b9766961207a7af738717ab789e86/Ender%20SW%20Rev_2.png)
+![Enclosed Enderwire](DarkDog_Enderwire_rev2_with_enclosure.png)
 
 # Prerequisites:
 **Start here...**
