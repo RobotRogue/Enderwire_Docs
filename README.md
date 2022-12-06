@@ -164,6 +164,7 @@ To get an idea of what is involved in a build, it is highly recommended that you
 The manual can be found here: **https://github.com/VoronDesign/Voron-Switchwire/raw/master/Manuals/Assembly_Manual_SW.pdf**
 
 ----------- WORK IN PROGRESS -- TO BE ADDED -------------
+
 MY STEP ORDER FOR ASSEMBLY ARE A LITTLE UNUSUAL BUT MAKE SENSE TO ME SO...
 
 ### -- The Teardown: --
