@@ -163,11 +163,18 @@ To get an idea of what is involved in a build, it is highly recommended that you
 
 The manual can be found here: **https://github.com/VoronDesign/Voron-Switchwire/raw/master/Manuals/Assembly_Manual_SW.pdf**
 
-### – The Teardown:
+----------- WORK IN PROGRESS -- TO BE ADDED -------------
 
-WORK IN PROGRESS -- TO BE ADDED
+### – The Teardown:
 
 ### – Grill Assembly - Front
 
-Starting with the front left and front right grills, install the 4 x m3 heat set inserts. (2 in the front, 2 in the rear)
-![](https://github.com/RobotRogue/Enderwire_Docs/blob/main/Assembly%20Images/Grills/Heatsets_rear_of_front_left_and_right_grills.png)
+### – Grill Assembly - Rear
+
+### – Extensions Assembly - Left
+
+### – Extensions Assembly - Right
+
+### – Skirt Assembly - Left
+
+### – Skirt Assembly - Right
