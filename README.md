@@ -166,34 +166,40 @@ The manual can be found here: **https://github.com/VoronDesign/Voron-Switchwire/
 ----------- WORK IN PROGRESS -- TO BE ADDED -------------
 MY STEP ORDER FOR ASSEMBLY ARE A LITTLE UNUSUAL BUT MAKE SENSE TO ME SO...
 
-### The Teardown:
+### -- The Teardown: --
 * Steps to tear down the stock Ender 3... (or leave people to figure that out on their own?)
 
-### Grill Assembly - Front
+### -- Grill Assembly - Front --
 
-### Grill Assembly - Rear
+### -- Grill Assembly - Rear --
 
-### Extensions Assembly - Left
+### -- Extensions Assembly - Left --
 
-### Extensions Assembly - Right
+### -- Extensions Assembly - Right --
 
-### Skirt Assembly - Left
+### -- Skirt Assembly - Left --
 
-### Skirt Assembly - Right
+### -- Skirt Assembly - Right --
 
-### Electrics Bay
+### -- Electrics Bay --
 **_Mounting 350w PSU:_**
+* ...
 
 **_Mounting 5v PSU:_**
+* ...
 
 **_Mounting Mainboard:_**
+* ...
 
 **_Mounting Raspberry Pi:_**
+* ...
 
-### Y-Axis
+### -- Y-Axis --
 **_Motor Mounting:_**
+* ...
 
 **_Idler Mounting:_**
+* ...
 
 **_Linear Rail Mounting:_**
 * Install left side rail
@@ -208,3 +214,4 @@ MY STEP ORDER FOR ASSEMBLY ARE A LITTLE UNUSUAL BUT MAKE SENSE TO ME SO...
 * Mounting carriage to carrier adapter
 
 **_Hotbed Mounting and Pre-wiring:_**
+* ...
