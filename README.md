@@ -182,29 +182,29 @@ MY STEP ORDER FOR ASSEMBLY ARE A LITTLE UNUSUAL BUT MAKE SENSE TO ME SO...
 ### Skirt Assembly - Right
 
 ### Electrics Bay
-**Mounting 350w PSU**
+**_Mounting 350w PSU:_**
 
-**Mounting 5v PSU**
+**_Mounting 5v PSU:_**
 
-**Mounting Mainboard**
+**_Mounting Mainboard:_**
 
-**Mounting Raspberry Pi**
+**_Mounting Raspberry Pi:_**
 
 ### Y-Axis
-**Motor Mounting**
+**_Motor Mounting:_**
 
-**Idler Mounting**
+**_Idler Mounting:_**
 
-**Linear Rail Mounting**
+**_Linear Rail Mounting:_**
 * Install left side rail
 * Install right side rail
 * Install y-axis limit switch
 * Install bed to carrier adapter
 * Install y-axis belt and clamp
 
-**Bed Carriage Preparation and Mounting**
+**_Bed Carriage Preparation and Mounting:_**
 * Drilling bed carriage
 * Installing drag chain guide
 * Mounting carriage to carrier adapter
 
-**Hotbed Mounting and Pre-wiring**
+**_Hotbed Mounting and Pre-wiring:_**
