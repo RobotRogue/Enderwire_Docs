@@ -166,3 +166,8 @@ The manual can be found here: **https://github.com/VoronDesign/Voron-Switchwire/
 ### – The Teardown:
 
 WORK IN PROGRESS -- TO BE ADDED
+
+### – Grill Assembly - Front
+
+Starting with the front left and front right grills, install the 4 x m3 heat set inserts. (2 in the front, 2 in the rear)
+
