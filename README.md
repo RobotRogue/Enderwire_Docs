@@ -34,6 +34,9 @@ Do so at your own risk, I take no responsibility or liability for your own actio
 
 If you have a non-pro Ender 3 (aka: the 2040 y-extrusion version) it's recommended to print the majority of DarkDog's parts, and use the y-axis parts from Gizzle or Thomasjfens repositories. (You'll have to mix and match and figure out what will work since the non-pro is not really a mainstream conversion)
 
+**_Cut Guide:_**
+You should also download and print [this cut guide](https://www.printables.com/model/329851-2020-extrusion-cut-guide) for use later in the step where you need to cut your x-extrusion down.
+
 **The official Voron recommendations for printing your own parts are:**
 * **Material** - ABS (possibly ASA)
 * **Layer Height** - Recommended: 0.2mm
@@ -217,3 +220,5 @@ MY STEP ORDER FOR ASSEMBLY ARE A LITTLE UNUSUAL BUT MAKE SENSE TO ME SO...
 
 **_Hotbed Mounting and Pre-wiring:_**
 * ...
+
+### X-Axis
