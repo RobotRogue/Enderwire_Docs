@@ -160,7 +160,7 @@ These are the parts that you will reuse from your existing Ender 3 (assuming it 
 * **Stepper Motors** - you will only need the X, Y, and Z motors. The extruder motor is not used (see Stealthburner section)
 * **Power Inlet** - this is the part where you plug the power cord into the Ender. It will be needed to complete the conversion.
 * **Hotend** - Sort of. You *can* get away with this hotend, but it's recommended to get an e3d v6 or better hotend.
-* **Heatbed and Heatbed Y-Carriage** - The heatbed is actually pretty good, but you will have to drill out your y-carriage (more on that later)
+* **Heatbed and Heatbed Y-Carriage** - The heatbed is actually pretty good (Note: You will have to drill out your y-carriage if you have the Non-Pro Ender 3 with the 2040 Y-axis extrusion)
 
 # The Build:
 To get an idea of what is involved in a build, it is highly recommended that you pre-read the official Switchwire assembly manual, as it will contain a **LOT** of information that will be relevant when performing your Enderwire conversion.
@@ -214,7 +214,7 @@ MY STEP ORDER FOR ASSEMBLY ARE A LITTLE UNUSUAL BUT MAKE SENSE TO ME SO...
 * Install y-axis belt and clamp
 
 **_Bed Carriage Preparation and Mounting:_**
-* Drilling bed carriage
+* Drilling bed carriage (ONLY if you have the 2040 y-extrusion, aka: the Non-Pro Ender 3)
 * Installing drag chain guide
 * Mounting carriage to carrier adapter
 
