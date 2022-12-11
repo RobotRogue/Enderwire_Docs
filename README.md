@@ -120,7 +120,7 @@ These are the parts that you will need to source (aka: buy) to make the conversi
 |m2 x 10mm Self Tapping Screws|10|
 |m3 Washers|10|
 |m5 x 2mm ABS Spacers/Washers|20|
-|m5 Spacers (???)|25|
+|m5 x 0.5mm Shims|25|
 |m3 Nylock Nuts|4|
 |m4 Nylock Nuts|4|
 |m5 Nylock Nuts|4|
