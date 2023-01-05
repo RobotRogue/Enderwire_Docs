@@ -55,6 +55,8 @@ The repository for the Stealthburner toolhead can be found here: https://github.
 ### – Bill of Materials (BOM):
 These are the parts that you will need to source (aka: buy) to make the conversion happen.
 
+As for 'where do I buy the stuff?' -- you can use the Official Voron Sourcing Guide to help get you into the right direction. https://vorondesign.com/sourcing_guide
+
 **You also need to source all the parts listed in the Stealthburner BOM!!** Found here: https://vorondesign.com/voron_stealthburner
 
 **Notes:**
