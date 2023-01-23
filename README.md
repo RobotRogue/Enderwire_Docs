@@ -4,7 +4,7 @@
 **NOTE!!! THIS DOCUMENT IS INCOMPLETE AND A WORK IN PROGRESS!!! MANY ITEMS MAY CHANGE OR BE REMOVED/REWORDED!!!**
 
 # Preface:
-This repository outlines the steps to convert your Ender 3 into a CoreXZ movement printer based on the Voron Switchwire. There wasn't really a lot of consolidated information about this so I decided to write it up into a guide. If you see anything that needs updating, open a Pull Request in GitHub here or message **RobotRogue#8401** on Discord.
+This repository outlines the steps to convert your Ender 3 into a CoreXZ movement printer based on the Voron Switchwire. There wasn't really a lot of consolidated information about this so I decided to write it up into a guide.
 
 # Community + Additional Info:
 * **Voron Community Discord:** https://discord.com/invite/voron
