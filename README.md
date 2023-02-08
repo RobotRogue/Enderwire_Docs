@@ -122,7 +122,7 @@ If you are unsure where to get parts for the BOM - use the official Voron Sourci
 |m2 x 10mm Self Tapping Screws|10|
 |m3 Washers|10|
 |m5 x 2mm ABS Spacers/Washers|20|
-|m5 x 0.5mm Shims|25|
+|m5 x 1mm Shims|25|
 |m3 Nylock Nuts|4|
 |m4 Nylock Nuts|4|
 |m5 Nylock Nuts|4|
