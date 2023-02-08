@@ -97,7 +97,7 @@ If you are unsure where to get parts for the BOM - use the official Voron Sourci
 |Part|Quantity|
 |----------|----------|
 |m3x5x4 Heat Set Inserts|100|
-|2020 m3 Roll-in T-nuts|30|
+|2020 m3 Roll-in T-nuts|50|
 |2020 m5 Roll-in T-nuts|75|
 |m3 x 8mm Socket Head Cap Screws|90|
 |m3 x 10mm Socket Head Cap Screws|2|
