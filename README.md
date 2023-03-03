@@ -116,7 +116,6 @@ If you are unsure where to get parts for the BOM - use the official Voron Sourci
 |m5 x 16mm Button Head Cap Screws|35|
 |m5 x 20mm Button Head Cap Screws|5|
 |m5 x 30mm Button Head Cap Screws|5|
-|m5 x 10mm Button Head Cap Screws|35|
 |m3 x 6mm Flat Head Cap Screws|20|
 |m3 x 8mm Flat Head Cap Screws|5|
 |m2 x 10mm Self Tapping Screws|10|
