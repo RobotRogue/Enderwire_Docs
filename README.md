@@ -29,7 +29,7 @@ Do so at your own risk, I take no responsibility or liability for your own actio
 * **DarkDog's Rev.2 Conversion:** https://github.com/boubounokefalos/Ender_SW/tree/Rev.2
 
 *For Enders with a 2020 y-extrusion:*
-* **Gizzle's Non-Pro Conversion:** https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Gizzle/ender-3_(pro)_switchwire
+* **Gizzle's Non-Pro Conversion:** https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/Gizzle/ender-3_pro_switchwire
 * **Thomasjfen's Non-Pro-to-DarkDogs Conversion: (to fit Gizzles y-axis into the DarkDog Rev.2 Conversion)** https://github.com/thomasfjen/enderwire_nonpro
 
 If you have a non-pro Ender 3 (aka: the 2040 y-extrusion version) it's recommended to print the majority of DarkDog's parts, and use the y-axis parts from Gizzle or Thomasjfens repositories. (You'll have to mix and match and figure out what will work since the non-pro is not really a mainstream conversion)
